@@ -1,0 +1,16 @@
+{
+    "go.useLanguageServer": true,
+    "window.zoomLevel": 0,
+    "editor.renderWhitespace": "none",
+    "editor.cursorStyle": "block",
+    "editor.wordWrap": "on",
+    "editor.folding": false,
+    "editor.renderIndentGuides": false,
+    "scm.diffDecorations": "none",
+    "editor.renderLineHighlight": "none",
+    "breadcrumbs.enabled": false,
+    "window.menuBarVisibility": "default",
+    "git.autofetch": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorCustomizations": {}
+}
