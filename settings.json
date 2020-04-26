@@ -12,5 +12,6 @@
     "window.menuBarVisibility": "default",
     "git.autofetch": true,
     "workbench.colorTheme": "One Dark Pro",
-    "workbench.colorCustomizations": {}
+    "workbench.colorCustomizations": {},
+    "workbench.startupEditor": "newUntitledFile"
 }
